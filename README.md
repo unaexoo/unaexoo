@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:feefef,100:ff6666&height=180&text=unaexoo&animation=&fontColor=4b4949&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=0:feefef,100:ff6666&height=180&text=unaexoo&animation=&fontColor=F4EBE7&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 윤혜주 </h2>  

@@ -12,7 +12,7 @@
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-            <img src="https://img.shields.io/badge/Tistory-512BD4?style=flat-squaree&logo=C#&logoColor=white">
+            <img src="https://img.shields.io/badge/C-512BD4?style=flat-squaree&logo=C#&logoColor=white">
           <br/></div>
     </div>
     <div style="text-align: left;">

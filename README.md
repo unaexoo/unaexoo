@@ -18,7 +18,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:assaw102@gmai..com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:assaw102@gmai..com"> </a>
-         <a href=https://www.notion.so/unaxoo/88435f90e3cb47fa89d710d6925dd2eb> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/unaxoo/88435f90e3cb47fa89d710d6925dd2eb"> </a>
+         <a href=https://unaxoo.notion.site/unaxoo/Coding-8d7dba01296547b5b50a46272106ecbc <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/unaxoo/88435f90e3cb47fa89d710d6925dd2eb"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funaexoo%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 

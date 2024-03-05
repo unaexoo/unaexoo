@@ -3,6 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 윤혜주 </h2>  
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funaexoo&count_bg=%23FFB8B8&title_bg=%23FFD8D4&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Recoding site </div> 
     </div>
     <div style="text-align: left;">

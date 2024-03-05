@@ -28,4 +28,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unaexoo&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbspwn1321)](https://solved.ac/dbspwn1321/)

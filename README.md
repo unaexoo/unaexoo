@@ -20,4 +20,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
  
 # :mailbox_with_mail: Contacts
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://unaexoo.notion.site/Coding-bef6d263675844a1a6575d3eae9a9199)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:assaw102@gamil.com)](mailto:assaw102@gamil.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dbspwn1321@naver.com)](mailto:dbspwn1321@naver.com)
 

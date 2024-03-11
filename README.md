@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funaexoo&count_bg=%23FFC0C0&title_bg=%23FF9999&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Hey joo's GitHub stats](https://github-readme-stats.vercel.app/api?username=unaexoo&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbspwn1321)](https://solved.ac/dbspwn1321)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbspwn1321)](https://solved.ac/profile/dbspwn1321)
 
 # 💪Skills
 ### Platforms & Languages
